@@ -1,0 +1,11 @@
+# comment
+/out/
+/.idea/workspace.xml
+/.vscode/
+/__pycache__/
+anothersolu.pl
+simple_version.pl
+
+
+# mac bin
+.DS_Store
